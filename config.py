@@ -39,7 +39,7 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """✨ **Welcome, {}!** 👋
+    START_TXT = """✨ **Wᴇʟᴄᴏᴍᴇ, {}!** 👋
 
 
 
@@ -59,8 +59,8 @@ Start exploring the powerful features and let the renaming magic happen! ✨
     ABOUT_TXT = """╭━━━───[ 🌟 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 🌟 ]───━━━╮
 ┃ 
 ┃ 🤖 𝕄𝕪 𝕟𝕒𝕞𝕖    : {}
-┃ 👨‍💻 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣  : <a href="https://t.me/v15hnuf6n1x">𝕄ℝ</a>
-┃ ❄️ 𝔽𝕠𝕦𝕟𝕕𝕖𝕣 𝕠𝕗  : <a href="https://t.me/mr_v_bots">𝕄𝕣_𝕧_𝕓𝕠𝕥𝕤</a>
+┃ 👨‍💻 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣  : <a href="https://t.me/TamilxLinks">TamilxLinks</a>
+┃ ❄️ 𝔽𝕠𝕦𝕟𝕕𝕖𝕣 𝕠𝕗  : <a href="https://t.me/TNTamilLinks">TNTamilLinks</a>
 ┃ 📚 𝕃𝕚𝕓𝕣𝕒𝕣𝕪   : <a href="https://github.com/pyrogram">ℙ𝕪𝕣𝕠𝕘𝕣𝕒𝕞</a>
 ┃ 🖋️ 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖  : <a href="https://www.python.org">ℙ𝕪𝕥𝕙𝕠𝕟 𝟛</a>
 ┃ 💾 𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖   : <a href="https://cloud.mongodb.com">𝕄𝕠𝕟𝕘𝕠 𝔻𝔹</a>
@@ -116,9 +116,9 @@ Start exploring the powerful features and let the renaming magic happen! ✨
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @your_channel" -metadata author="@your_custom" -metadata:s:s title="Subtitled By :- @yours" -metadata:s:a title="By :- @yours" -metadata:s:v title="By:- @yours" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @RoyalxMoviesOfficial" -metadata author="@TamilxLinks" -metadata:s:s title="Subtitled By :- @UHD4KxMovies" -metadata:s:a title="By :- @RoyalxMoviesOfficial" -metadata:s:v title="By:- @TamilxLinks" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @c0nt4ct_bot
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Cute_Boy_Saravana
 """
 
     PROGRESS_BAR = """<b>\n
